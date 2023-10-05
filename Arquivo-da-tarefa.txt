@@ -1,3 +1,1 @@
-Kaycke Nizer Palhano
-
-Este é um arquivo criado para a tarefa do módulo 2 do curso Full Stack Python da EBAC.
+Este é um novo arquivo criado para a tarefa do módulo 2 do curso Full Stack Python da EBAC.
